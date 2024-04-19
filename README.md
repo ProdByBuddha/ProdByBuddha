@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProdByBuddha
 - 👀 I’m interested in gaining a certainly firm grasp on open source technology available to us
 - 🌱 I’m currently learning how to wrap my brain around navigating the developer space
-- 💞️ I’m looking to collaborate on creating a bridge between the young and old via borrowed intelligence and machine learning
+- 💞️ I’m looking to collaborate on creating a bridge between the young and old
 - 📫 How to reach me > prodbybuddha@icloud.com
 
 <!---
