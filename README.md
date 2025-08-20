@@ -1,78 +1,95 @@
-# 👋 Hi, I'm Billy Coleman III!
+<div align="center">
 
-## 🔒 Full-Stack Developer | AI/ML Specialist | Multimedia Technologist
+# Billy Coleman III <br />Design‑minded Engineer who ships delightful systems fast
 
-Consider me a Sovereign Intelligence Systems Architect. I am a passionate engineer with expertise in full-stack development and DevSecOps practices. My mission is to build secure, scalable applications that protect user data while delivering exceptional experiences across any platform, using only the industry's most robust, peer-reviewed tools.
+Crafting automation and developer tools that feel obvious to use, hard to misuse, and easy to trust.
 
-### 🌟 What I Bring to the Table
+<br />
 
-#### 💻 Platform-Agnostic Development
-- **Adaptable Expertise**: Quickly assimilating into existing codebases regardless of tech stack
-- **Cross-Platform Solutions**: Recommending Flutter for enterprise-level applications
-- **Hybrid Mobile Development**: Leveraging Ionic framework for SMB-sized companies
-- **Web & Mobile**: Creating responsive experiences that work across all devices and platforms
+<a href="mailto:thebuddhaverse@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-0a66c2?logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/prodbybuddha"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white"></a>
+<img alt="UI/UX" src="https://img.shields.io/badge/Focus-UI%2FUX%20%2B%20DevEx-111" />
+<img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-First-6e40c9" />
+<img alt="MCP" src="https://img.shields.io/badge/MCP-Servers%20%26%20Tools-1f883d" />
 
-#### 🛡️ Security Implementation
-- **Industry-Leading Password Hashing**: Implementing Argon2id with memory-hardness, salting and peppering
-- **Zero-Knowledge Authentication**: Building quantum-resistant JWT/JWE solutions with secure session management
-- **Access Controls**: Creating role-based authorization with formal verification techniques
-- **API Security**: Enforcing secure endpoints with memory-safe languages and frameworks
-
-#### 🔐 DevSecOps Integration
-- **Automated Security Scanning**: Implementing code, dependency, and container scanning
-- **CI/CD Security**: Embedding security testing in deployment pipelines (GitHub Actions)
-- **Infrastructure as Code**: Securing K8s deployments with proper configurations
-- **Compliance Planning**: Experience with SOC2 preparation and security control implementation
-
-#### 🚀 Memory-Safe Infrastructure & Deployment
-- **Rust-Based Backends**: Using Actix Web for memory-safe, high-performance APIs
-- **Containerization**: Docker for consistent development with minimal attack surfaces
-- **Kubernetes**: Creating secure K8s deployments with proper resource management
-- **Cloud Security**: Implementing secure configurations for cloud resources
-- **CI/CD Pipelines**: Building GitHub Actions workflows with security checkpoints
-
-### 🔧 My Technical Stack
-
-```
-Core: Platform & Language Agnostic | Adaptable to Any Stack
-Language Preference: Rust (backend) | TypeScript (frontend)
-Mobile: Flutter (Enterprise) | Ionic (SMB) | React Native
-Frontend: React | Tailwind CSS | Framer Motion | React Query | TypeScript
-Backend: Actix Web (Rust) | PostgreSQL | Argon2id | JWT/JWE | Helmet
-DevOps: Docker | Kubernetes | GitHub Actions | CI/CD Pipelines
-Security: Static Code Analysis | Dependency Scanning | Container Scanning | RBAC
-Tools: Git | VS Code | Postman | K9s | Kustomize
-```
-
-### 📊 Golden Standard Security Implementations
-- Quantum-resistant cryptography with industry-vetted algorithms
-- Secure password storage with Argon2id (memory-hard, time-parameterized hashing)
-- Memory-safe API implementations with Actix Web (Rust)
-- Data protection with field-level encryption techniques
-- CI/CD pipelines with integrated security checks
-- Kubernetes deployments with secure configuration
-
-### 🌐 Development Philosophy
-
-While I'm fully capable of working with any technology stack and adapting to existing codebases, my preferred development approach includes:
-
-- **Enterprise Solutions**: Flutter for cross-platform applications providing native performance
-- **SMB Applications**: Ionic framework for cost-effective hybrid mobile development
-- **Security-First**: Implementing robust, peer-reviewed security regardless of the chosen tech stack
-- **Memory Safety**: Preferring Rust for backend services to eliminate entire classes of vulnerabilities
-- **Adapting to You**: Meeting you where you are with your existing technologies
-
-### 🔗 Let's Connect and Build Secure Systems!
-
-I'm passionate about building applications that are both functional and secure using only the most thoroughly vetted technologies. Whether you're looking to strengthen your application's security posture or need a developer who can implement secure coding practices from the ground up, I'm here to help!
+</div>
 
 ---
 
-💼 [Portfolio (coming soon)](#)  | 💼 [LinkedIn](https://linkedin.com/in/prodbybuddha) | 📧 [Email Me](mailto:prodbybuddha@icloud.com)
+## What I Do (Design × Engineering)
 
-> "Security is not a product, but a process." - Bruce Schneier
+- Outcome‑driven UX for complex systems: turn dense APIs into clear, guided flows.
+- OpenAPI → MCP: generate tools/servers with human‑readable names and typed inputs.
+- Safety by design: allowlists, rate limits, audit logs, and sensible defaults.
+- Ship fast, keep receipts: README‑first, examples, HTML clients, Wiki + CI automation.
 
-<!---
-ProdByBuddha/ProdByBuddha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Signature Work (authored, not just forked)
+
+- OpenAPI MCP Server (<24 hours from idea → docs → CI)
+  - Universal OpenAPI → MCP tool generator with multi‑service host (n8n + Hostinger + more)
+  - Hardened defaults, Zod validation, stdio + WebSocket transport, HTML test client
+  - Auto‑built GitHub Wiki and Actions that lint specs, regen tools, and publish docs
+  - Repo: https://github.com/ProdByBuddha/openapi-mcp-server
+
+- Coinbase × Agent Kit (TypeScript)
+  - Rebuilt for Replit Agent; model‑agnostic UX; cleaner onboarding and examples
+  - Repo: https://github.com/ProdByBuddha/Coinbase-x-Agent-Kit
+
+- Bank Account (Rust)
+  - Security‑focused terminal banking prototype (AES‑256, JWT+JWE, PCI‑style checks)
+  - Repo: https://github.com/ProdByBuddha/bank-account-rust
+
+- Information Theory (Python)
+  - Practical, readable implementations from Shannon to modern variants
+  - Repo: https://github.com/ProdByBuddha/information-theory
+
+- ESP32 Projects (C++)
+  - Embedded UX: feedback‑rich CLIs, robust error paths, dev‑friendly logs
+  - Repo: https://github.com/ProdByBuddha/esp32-projects
+
+> Note on forks: I fork to move quickly, then contribute. I don’t list clones here. Public commits reflect where I actually shipped.
+
+## Design Principles I practice
+
+- Clarity over cleverness: label things the way users search for them.
+- States, not pages: empty/loading/error states designed first, not last.
+- Safety rails > speed bumps: guide users to success, block foot‑guns.
+- Motion with meaning: subtle transitions for orientation, not decoration.
+- Accessibility is table stakes: contrast, focus rings, keyboard paths, ARIA.
+
+## Process (fast, transparent, verifiable)
+
+1) Understand constraints: users, auth, transports, risks, success criteria
+2) Design the interface: names, flows, states, microcopy, examples
+3) Generate > hand‑code: OpenAPI → tools/server/types; curate what matters
+4) Prove it works: HTML client, examples, one‑shot scripts
+5) Ship with confidence: Wiki, CI, linting, and regeneration pipelines
+
+## Impact (recent)
+
+- <24 hours to a usable OpenAPI→MCP platform with docs, CI, and multi‑host.
+- Weeks → hours: integration time cut via generated, well‑named tools and examples.
+- Safer defaults: rate‑limits, allowlists, audit logs adopted from day one.
+
+## Tooling I reach for
+
+- Frontend/UX: design systems, semantic HTML, accessible components, motion
+- Backend: Node/TS, Rust, Go; Express, ws, Zod; swagger‑parser
+- Infra: Docker, GitHub Actions (lint/spec regen/wiki publish), n8n
+- Protocols: OpenAPI 3.x, OAuth2, API keys, JSON‑RPC (stdio/ws)
+
+## Let’s build something your users love
+
+- You want complex capability to feel simple, safe, and fast.
+- I deliver that — with artifacts your team can maintain.
+
+• Email: thebuddhaverse@icloud.com  
+• LinkedIn: https://linkedin.com/in/prodbybuddha  
+• Support: https://donate.stripe.com/9AQbLka97fFx75K8ww
+
+<br />
+
+<div align="center">
+  <sub>“Great UX makes powerful things feel obvious.”</sub>
+</div>
+
