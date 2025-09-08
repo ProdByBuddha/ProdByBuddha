@@ -60,12 +60,6 @@ Crafting applications, automation and developer tools that feel obvious to use, 
 4) Prove it works: HTML client, examples, one‑shot scripts
 5) Ship with confidence: Wiki, CI, linting, and regeneration pipelines
 
-## Tooling I reach for
-
-- Frontend/UX: design systems, semantic HTML, accessible components, motion
-- Backend: Node/TS, Python, Rust, Go; Express
-- Infra: Docker, Nginx
-
 ## Let’s build something your users love
 
 - You want complex capability to feel simple, safe, and fast.
