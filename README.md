@@ -2,15 +2,13 @@
 
 # Billy Coleman III <br />Design‑minded Engineer who ships delightful systems fast
 
-Crafting automation and developer tools that feel obvious to use, hard to misuse, and easy to trust.
+Crafting applications, automation and developer tools that feel obvious to use, hard to misuse, and easy to trust.
 
 <br />
 
 <a href="mailto:thebuddhaverse@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-0a66c2?logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/prodbybuddha"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white"></a>
-<img alt="UI/UX" src="https://img.shields.io/badge/Focus-UI%2FUX%20%2B%20DevEx-111" />
-<img alt="OpenAPI" src="https://img.shields.io/badge/OpenAPI-First-6e40c9" />
-<img alt="MCP" src="https://img.shields.io/badge/MCP-Servers%20%26%20Tools-1f883d" />
+<img alt="UI/UX" src="https://img.shields.io/badge/Focus-Full%20Stack%20+%20Automation/AI-111" />
 
 </div>
 
@@ -18,10 +16,7 @@ Crafting automation and developer tools that feel obvious to use, hard to misuse
 
 ## What I Do (Design × Engineering)
 
-- Outcome‑driven UX for complex systems: turn dense APIs into clear, guided flows.
-- OpenAPI → MCP: generate tools/servers with human‑readable names and typed inputs.
-- Safety by design: allowlists, rate limits, audit logs, and sensible defaults.
-- Ship fast, keep receipts: README‑first, examples, HTML clients, Wiki + CI automation.
+- Outcome‑driven UX for complex systems: turn dense business demands into clear, guided flows.
 
 ## Signature Work (authored, not just forked)
 
@@ -65,18 +60,11 @@ Crafting automation and developer tools that feel obvious to use, hard to misuse
 4) Prove it works: HTML client, examples, one‑shot scripts
 5) Ship with confidence: Wiki, CI, linting, and regeneration pipelines
 
-## Impact (recent)
-
-- <24 hours to a usable OpenAPI→MCP platform with docs, CI, and multi‑host.
-- Weeks → hours: integration time cut via generated, well‑named tools and examples.
-- Safer defaults: rate‑limits, allowlists, audit logs adopted from day one.
-
 ## Tooling I reach for
 
 - Frontend/UX: design systems, semantic HTML, accessible components, motion
-- Backend: Node/TS, Rust, Go; Express, ws, Zod; swagger‑parser
-- Infra: Docker, GitHub Actions (lint/spec regen/wiki publish), n8n
-- Protocols: OpenAPI 3.x, OAuth2, API keys, JSON‑RPC (stdio/ws)
+- Backend: Node/TS, Python, Rust, Go; Express
+- Infra: Docker, Nginx
 
 ## Let’s build something your users love
 
