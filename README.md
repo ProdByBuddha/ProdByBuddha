@@ -1,77 +1,110 @@
 <div align="center">
 
-# Billy Coleman III <br />Design‑minded Engineer who ships delightful systems fast
+# Billy Coleman III
+### Forward Deployed Engineer // Agentic Data Specialist
 
-Crafting applications, automation and developer tools that feel obvious to use, hard to misuse, and easy to trust.
+**Building the nervous systems of tomorrow: Adaptive Infrastructure & High-Performance Inference.**
 
 <br />
 
 <a href="mailto:thebuddhaverse@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-0a66c2?logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/prodbybuddha"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white"></a>
-<img alt="UI/UX" src="https://img.shields.io/badge/Focus-Full%20Stack%20+%20Automation/AI-111" />
+<img alt="Focus" src="https://img.shields.io/badge/Focus-Agentic%20Orchestration%20%7C%20Inference%20Ops-111" />
 
 </div>
 
 ---
 
-## What I Do (Design × Engineering)
+## The Intersection: Where I Operate
 
-- Outcome‑driven UX for complex systems: turn dense business demands into clear, guided flows.
+I sit at the bleeding edge between **infrastructure engineering** and **autonomous agents**. I don't just build applications; I engineer "organisms"—systems that are self-healing, context-aware, and capable of complex reasoning.
 
-## Signature Work (authored, not just forked)
+My work focuses on the **last mile of AI utility**: optimizing inference engines (vLLM), hardening orchestration layers (n8n), and designing data pipelines that allow LLMs to act, not just chat.
 
-- OpenAPI MCP Server (<24 hours from idea → docs → CI)
-  - Universal OpenAPI → MCP tool generator with multi‑service host (n8n + Hostinger + more)
-  - Hardened defaults, Zod validation, stdio + WebSocket transport, HTML test client
-  - Auto‑built GitHub Wiki and Actions that lint specs, regen tools, and publish docs
-  - Repo: https://github.com/ProdByBuddha/openapi-mcp-server
+## 🧬 Philosophy: Infrastructure as an Organism
 
-- Coinbase × Agent Kit (TypeScript)
-  - Rebuilt for Replit Agent; model‑agnostic UX; cleaner onboarding and examples
-  - Repo: https://github.com/ProdByBuddha/Coinbase-x-Agent-Kit
+> *"Static systems are fragile. Biological systems are anti-fragile."*
 
-- Bank Account (Rust)
-  - Security‑focused terminal banking prototype (AES‑256, JWT+JWE, PCI‑style checks)
-  - Repo: https://github.com/ProdByBuddha/bank-account-rust
+I build software that treats infrastructure like biological tissue. My methodology, **[Infra-as-an-Organism](https://github.com/ProdByBuddha/infra-as-an-organism)**, prioritizes:
+- **Homeostasis:** Systems that self-regulate under load.
+- **Autonomy:** Agents that understand their own constraints.
+- **Symbiosis:** Tightly coupled interactions between Model (Intelligence) and Tool (Action).
 
-- Information Theory (Python)
-  - Practical, readable implementations from Shannon to modern variants
-  - Repo: https://github.com/ProdByBuddha/information-theory
+---
 
-- ESP32 Projects (C++)
-  - Embedded UX: feedback‑rich CLIs, robust error paths, dev‑friendly logs
-  - Repo: https://github.com/ProdByBuddha/esp32-projects
+## 🚀 High-Impact Open Source Contributions
 
-> Note on forks: I fork to move quickly, then contribute. I don’t list clones here. Public commits reflect where I actually shipped.
+My acumen is proven in the codebases powering the AI revolution.
 
-## Design Principles I practice
+### **Inference & Compute**
+- **[vLLM](https://github.com/vllm-project/vllm/pull/30449) (Contributor)**
+  - *Context:* The world's fastest high-throughput and memory-efficient LLM serving engine.
+  - *Contribution:* Direct contributions to the core engine, enhancing stability and performance for production-grade inference.
 
-- Clarity over cleverness: label things the way users search for them.
-- States, not pages: empty/loading/error states designed first, not last.
-- Safety rails > speed bumps: guide users to success, block foot‑guns.
-- Motion with meaning: subtle transitions for orientation, not decoration.
-- Accessibility is table stakes: contrast, focus rings, keyboard paths, ARIA.
+### **Orchestration & Agents**
+- **[n8n](https://github.com/n8n-io/n8n/releases/tag/n8n%401.119.0) (Contributor)**
+  - *Context:* The leading fair-code workflow automation tool for technical teams.
+  - *Contribution:* Addressed critical logic in agentic workflows (Issue [#18574](https://github.com/n8n-io/n8n/issues/18574)), shipped in release `1.119.0`. I ensure the glue between LLMs and APIs is robust.
 
-## Process (fast, transparent, verifiable)
+- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli/pull/12941) (Contributor)**
+  - *Context:* Google's official command-line interface for the Gemini models.
+  - *Contribution:* Enhanced developer tooling to streamline interaction with multimodal models.
 
-1) Understand constraints: users, auth, transports, risks, success criteria
-2) Design the interface: names, flows, states, microcopy, examples
-3) Generate > hand‑code: OpenAPI → tools/server/types; curate what matters
-4) Prove it works: HTML client, examples, one‑shot scripts
-5) Ship with confidence: Wiki, CI, linting, and regeneration pipelines
+---
 
-## Let’s build something your users love
+## 🛠️ Signature Projects (The Agentic Stack)
 
-- You want complex capability to feel simple, safe, and fast.
-- I deliver that — with artifacts your team can maintain.
+I build at every layer of the autonomous stack: **Inference**, **Tooling**, **Execution**, and **Security**.
 
-• Email: thebuddhaverse@icloud.com  
-• LinkedIn: https://linkedin.com/in/prodbybuddha  
-• Support: https://donate.stripe.com/9AQbLka97fFx75K8ww
+### 🧠 Inference Layer: [vLLM](https://github.com/vllm-project/vllm)
+**Contribution:** SLA-Tiered Scheduling & Core Stability<br>
+I don't just use LLMs; I optimize how they run.
+- **The Work:** Proposed and architected **SLA-Tiered Scheduling** ([RFC #30256](https://github.com/vllm-project/vllm/issues/30256)) to allow vLLM to intelligently balance latency-critical agents vs. throughput-heavy batch jobs.
+- **Impact:** Moves inference from "First-Come-First-Serve" to "Business-Logic-Aware."
+
+### 🔌 Tooling Layer: [OpenAPI MCP Server](https://github.com/ProdByBuddha/openapi-mcp-server)
+**Project:** The Universal API Adapter for Agents<br>
+A zero-config factory that instantly turns *any* OpenAPI/Swagger spec into a Model Context Protocol (MCP) server.
+- **Why it matters:** Solves the "cold start" problem for agents. Instead of writing glue code for every API, this tool generates strict, type-safe tool definitions (Zod) automatically.
+- **Features:** Auto-generated Wiki/Docs, GitHub Actions CI pipelines, and multi-service hosting (n8n + Hostinger).
+
+### 💳 Execution Layer: [Coinbase × Agent Kit](https://github.com/ProdByBuddha/Coinbase-x-Agent-Kit)
+**Project:** Financial Autonomy for AI<br>
+A complete re-engineering of the Coinbase Agent Kit for the Replit ecosystem.
+- **The Delta:** I stripped away the friction to create a **model-agnostic UX**, allowing agents to hold wallets, stake assets, and execute complex on-chain transactions without human intervention.
+
+### 🛡️ Security Layer: [Bank Account (Rust)](https://github.com/ProdByBuddha/bank-account-rust)
+**Project:** High-Assurance Systems Prototype<br>
+A terminal banking system proving that "Agentic" doesn't mean "Insecure."
+- **Tech:** Written in Rust for memory safety. Implements **AES-256 encryption**, **JWT+JWE auth**, and **PCI-compliant** architectural patterns.
+- **Philosophy:** If an agent can spend money, its underlying logic must be panic-free and formally verifiable.
+
+### 🧬 Philosophy: [Infra-as-an-Organism](https://github.com/ProdByBuddha/infra-as-an-organism)
+**Concept:** The Manual for Self-Healing Systems<br>
+My manifesto on moving from "static architecture" to "biological architecture."
+- **Core Tenet:** Infrastructure should possess *homeostasis*—automatically regulating resources (like the vLLM scheduler) to maintain health under stress.
+
+---
+
+## Capabilities
+
+| Domain | Stack & Tooling |
+| :--- | :--- |
+| **Inference Ops** | **vLLM**, Python, CUDA (interactions), Docker, GPU Optimization |
+| **Agentic Logic** | **n8n**, LangChain, MCP (Model Context Protocol), Replit Agent |
+| **Systems Eng** | **Rust**, C++ (ESP32/Embedded), TypeScript |
+| **Philosophy** | Adaptive Systems, User Intent Analysis, Outcome-Driven UX |
+
+## Let's deploy the future
+
+I help teams move from "Chatbot" to "Digital Worker." If you need an engineer who understands the entire stack—from the GPU kernel to the user's intent—let's talk.
+
+• **Email:** thebuddhaverse@icloud.com
+• **LinkedIn:** [linkedin.com/in/prodbybuddha](https://linkedin.com/in/prodbybuddha)
+• **Support:** [Stripe](https://donate.stripe.com/9AQbLka97fFx75K8ww)
 
 <br />
 
 <div align="center">
-  <sub>“Great UX makes powerful things feel obvious.”</sub>
+  <sub>“Code is the DNA. The runtime is the organism.”</sub>
 </div>
-
