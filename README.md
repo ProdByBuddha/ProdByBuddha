@@ -101,7 +101,7 @@ I help teams move from "Chatbot" to "Digital Worker." If you need an engineer wh
 
 • **Email:** thebuddhaverse@icloud.com
 • **LinkedIn:** [linkedin.com/in/prodbybuddha](https://linkedin.com/in/prodbybuddha)
-• **Support:** [Stripe](https://donate.stripe.com/9AQbLka97fFx75K8ww)
+• **Support:** [GitHub Sponsors](https://github.com/sponsors/prodbybuddha)
 
 <br />
 
