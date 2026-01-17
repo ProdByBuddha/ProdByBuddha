@@ -86,13 +86,12 @@ I like to operate where the supply of developers is low, but the leverage is inf
 
 <div align="center">
 
-<a href="https://github.com/prodbybuddha">
-  <img src="https://github-readme-stats.vercel.app/api?username=prodbybuddha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Billy's Stats" />
-</a>
-<br/>
-<a href="https://github.com/prodbybuddha">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodbybuddha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-</a>
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prodbybuddha&theme=2077" alt="Profile Details" />
+
+<!-- Stats & Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prodbybuddha&theme=2077" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prodbybuddha&theme=2077" alt="Languages" />
 
 </div>
 
