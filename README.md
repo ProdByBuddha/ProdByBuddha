@@ -1,110 +1,104 @@
 <div align="center">
 
-# Billy Coleman III
-### Forward Deployed Engineer // Agentic Data Specialist
+# BILLY COLEMAN III
 
-**Building the nervous systems of tomorrow: Adaptive Infrastructure & High-Performance Inference.**
+### Sovereign Systems Architect | Rust Specialist | Agency Builder
 
-<br />
+<!-- Typing SVG: The "Moat" Narrative -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Sovereign+Organisms;Forging+Digital+Independence;Rust+%3E+Hype;The+Agency+Architect" alt="Typing SVG" /></a>
 
-<a href="mailto:thebuddhaverse@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-0a66c2?logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/prodbybuddha"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white"></a>
-<img alt="Focus" src="https://img.shields.io/badge/Focus-Agentic%20Orchestration%20%7C%20Inference%20Ops-111" />
+---
+
+<!-- Badges: High Contrast, "For-the-Badge" -->
+<a href="https://github.com/prodbybuddha">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</a>
+<a href="https://github.com/prodbybuddha/agency">
+  <img src="https://img.shields.io/badge/Agency-Architect-8A2BE2?style=for-the-badge&logo=prometheus&logoColor=white" />
+</a>
+<a href="https://github.com/sponsors/prodbybuddha">
+  <img src="https://img.shields.io/badge/Sponsor-Protocol-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+</a>
 
 </div>
 
----
+<br />
 
-## The Intersection: Where I Operate
+## `> whoami`
 
-I sit at the bleeding edge between **infrastructure engineering** and **autonomous agents**. I don't just build applications; I engineer "organisms"—systems that are self-healing, context-aware, and capable of complex reasoning.
+```rust
+struct BillyColemanIII {
+    role: "Sovereign Systems Architect",
+    specialization: "High-Performance Autonomous Systems",
+    philosophy: "Discipline > Convenience",
+    location: "The Bleeding Edge",
+}
 
-My work focuses on the **last mile of AI utility**: optimizing inference engines (vLLM), hardening orchestration layers (n8n), and designing data pipelines that allow LLMs to act, not just chat.
+impl Developer for BillyColemanIII {
+    fn focus(&self) -> Focus {
+        // I don't just glue APIs together.
+        // I engineer the nervous systems that allow AI to exist autonomously.
+        Focus::Rust | Focus::InferenceOps | Focus::FirstPrinciples
+    }
+}
+```
 
-## 🧬 Philosophy: Infrastructure as an Organism
+## `> ./agency --status`
 
-> *"Static systems are fragile. Biological systems are anti-fragile."*
+### [ACCESS THE AGENCY](https://github.com/prodbybuddha/agency)
 
-I build software that treats infrastructure like biological tissue. My methodology, **[Infra-as-an-Organism](https://github.com/ProdByBuddha/infra-as-an-organism)**, prioritizes:
-- **Homeostasis:** Systems that self-regulate under load.
-- **Autonomy:** Agents that understand their own constraints.
-- **Symbiosis:** Tightly coupled interactions between Model (Intelligence) and Tool (Action).
+**The Flagship.** A SOTA semi-autonomous organism built entirely in Rust.
+While others build chat wrappers, I'm building a living system.
 
----
+> *"Agency is not a script. It is a distributed microservices constellation handling ReAct reasoning, dedicated memory subsystems, and local neural speech synthesis—all protected by military-grade process isolation."*
 
-## 🚀 High-Impact Open Source Contributions
+| Component | Technology | The Moat (Why it's hard) |
+| :--- | :--- | :--- |
+| **The Brain** | `Rust` + `Tokio` | Async runtime handling massive concurrency without GC pauses. |
+| **The Voice** | `Candle` + `ONNX` | Local, low-latency neural TTS running on Metal/Apple Silicon. |
+| **The Memory** | `Chroma` + `FastEmbed` | Semantic retrieval integrated at the binary level. |
+| **The Security** | `Podman` + `Seatbelt` | Rootless, sandboxed execution environment. |
 
-My acumen is proven in the codebases powering the AI revolution.
+## `> cargo tree --depth=1`
 
-### **Inference & Compute**
-- **[vLLM](https://github.com/vllm-project/vllm/pull/30449) (Contributor)**
-  - *Context:* The world's fastest high-throughput and memory-efficient LLM serving engine.
-  - *Contribution:* Direct contributions to the core engine, enhancing stability and performance for production-grade inference.
+**The "Low Supply" Stack.**
+Tools chosen for robustness, safety, and raw performance.
 
-### **Orchestration & Agents**
-- **[n8n](https://github.com/n8n-io/n8n/releases/tag/n8n%401.119.0) (Contributor)**
-  - *Context:* The leading fair-code workflow automation tool for technical teams.
-  - *Contribution:* Addressed critical logic in agentic workflows (Issue [#18574](https://github.com/n8n-io/n8n/issues/18574)), shipped in release `1.119.0`. I ensure the glue between LLMs and APIs is robust.
+<div align="center">
 
-- **[Google Gemini CLI](https://github.com/google-gemini/gemini-cli/pull/12941) (Contributor)**
-  - *Context:* Google's official command-line interface for the Gemini models.
-  - *Contribution:* Enhanced developer tooling to streamline interaction with multimodal models.
+| **Systems Programming** | **AI Engineering** | **Infrastructure** |
+| :---: | :---: | :---: |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Candle](https://img.shields.io/badge/Candle-F7F7F7?style=for-the-badge&logo=huggingface&logoColor=black) | ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) |
+| ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white) | ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black) | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GHA-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
----
+</div>
 
-## 🛠️ Signature Projects (The Agentic Stack)
+## `> cat philosophy.md`
 
-I build at every layer of the autonomous stack: **Inference**, **Tooling**, **Execution**, and **Security**.
+> "Code is the DNA. The runtime is the organism."
 
-### 🧠 Inference Layer: [vLLM](https://github.com/vllm-project/vllm)
-**Contribution:** SLA-Tiered Scheduling & Core Stability<br>
-I don't just use LLMs; I optimize how they run.
-- **The Work:** Proposed and architected **SLA-Tiered Scheduling** ([RFC #30256](https://github.com/vllm-project/vllm/issues/30256)) to allow vLLM to intelligently balance latency-critical agents vs. throughput-heavy batch jobs.
-- **Impact:** Moves inference from "First-Come-First-Serve" to "Business-Logic-Aware."
+I build software that treats infrastructure like biological tissue. My methodology, **[Infra-as-an-Organism](https://github.com/ProdByBuddha/infra-as-an-organism)**, rejects the fragility of modern "glue code" in favor of compiled, type-safe, and self-regulating systems.
 
-### 🔌 Tooling Layer: [OpenAPI MCP Server](https://github.com/ProdByBuddha/openapi-mcp-server)
-**Project:** The Universal API Adapter for Agents<br>
-A zero-config factory that instantly turns *any* OpenAPI/Swagger spec into a Model Context Protocol (MCP) server.
-- **Why it matters:** Solves the "cold start" problem for agents. Instead of writing glue code for every API, this tool generates strict, type-safe tool definitions (Zod) automatically.
-- **Features:** Auto-generated Wiki/Docs, GitHub Actions CI pipelines, and multi-service hosting (n8n + Hostinger).
+I like to operate where the supply of developers is low, but the leverage is infinite: **Rust**.
 
-### 💳 Execution Layer: [Coinbase × Agent Kit](https://github.com/ProdByBuddha/Coinbase-x-Agent-Kit)
-**Project:** Financial Autonomy for AI<br>
-A complete re-engineering of the Coinbase Agent Kit for the Replit ecosystem.
-- **The Delta:** I stripped away the friction to create a **model-agnostic UX**, allowing agents to hold wallets, stake assets, and execute complex on-chain transactions without human intervention.
+## `> git log --oneline`
 
-### 🛡️ Security Layer: [Bank Account (Rust)](https://github.com/ProdByBuddha/bank-account-rust)
-**Project:** High-Assurance Systems Prototype<br>
-A terminal banking system proving that "Agentic" doesn't mean "Insecure."
-- **Tech:** Written in Rust for memory safety. Implements **AES-256 encryption**, **JWT+JWE auth**, and **PCI-compliant** architectural patterns.
-- **Philosophy:** If an agent can spend money, its underlying logic must be panic-free and formally verifiable.
+<div align="center">
 
-### 🧬 Philosophy: [Infra-as-an-Organism](https://github.com/ProdByBuddha/infra-as-an-organism)
-**Concept:** The Manual for Self-Healing Systems<br>
-My manifesto on moving from "static architecture" to "biological architecture."
-- **Core Tenet:** Infrastructure should possess *homeostasis*—automatically regulating resources (like the vLLM scheduler) to maintain health under stress.
+<a href="https://github.com/prodbybuddha">
+  <img src="https://github-readme-stats.vercel.app/api?username=prodbybuddha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Billy's Stats" />
+</a>
+<br/>
+<a href="https://github.com/prodbybuddha">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodbybuddha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</a>
 
----
-
-## Capabilities
-
-| Domain | Stack & Tooling |
-| :--- | :--- |
-| **Inference Ops** | **vLLM**, Python, CUDA (interactions), Docker, GPU Optimization |
-| **Agentic Logic** | **n8n**, LangChain, MCP (Model Context Protocol), Replit Agent |
-| **Systems Eng** | **Rust**, C++ (ESP32/Embedded), TypeScript |
-| **Philosophy** | Adaptive Systems, User Intent Analysis, Outcome-Driven UX |
-
-## Let's deploy the future
-
-I help teams move from "Chatbot" to "Digital Worker." If you need an engineer who understands the entire stack—from the GPU kernel to the user's intent—let's talk.
-
-• **Email:** thebuddhaverse@icloud.com
-• **LinkedIn:** [linkedin.com/in/prodbybuddha](https://linkedin.com/in/prodbybuddha)
-• **Support:** [GitHub Sponsors](https://github.com/sponsors/prodbybuddha)
+</div>
 
 <br />
 
 <div align="center">
-  <sub>“Code is the DNA. The runtime is the organism.”</sub>
+  <sub>Authorized Personnel Only.</sub><br>
+  <a href="mailto:thebuddhaverse@icloud.com">Initiate Handshake</a>
 </div>
