@@ -9,7 +9,7 @@ I build production-grade systems: high-performance inference, distributed orches
 
 ### Systems & Infra
 - High-performance / low-latency design
-- Containerization (Docker/Podman) + orchestration (Kubernetes)
+- Containerization (Docker/Podman/Orbstack) + orchestration (Kubernetes)
 - Observability-first architectures
 - DevSecOps constraints & sandboxing
 
@@ -33,8 +33,6 @@ I build production-grade systems: high-performance inference, distributed orches
 - **infra-as-an-organism** — infrastructure treated as a self-aware system: feedback loops, governance, adaptation.
 - **ltgp_cac_calculator** — Rust CLI economics engine for go-to-market & capital allocation.
 - **Personal AI Infrastructure** — a pragmatic, deployable local inference stack that balances performance, cost, and control.
-
-(Other builds like **Rokour Academy** are part of the portfolio, but this list highlights the systems that best represent architectural gravity.)
 
 ---
 
