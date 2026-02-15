@@ -56,3 +56,17 @@ I build production-grade systems: high-performance inference, distributed orches
 
 📍 Los Angeles, CA  
 Building systems that scale technically — and economically.
+
+---
+## `> git log --oneline`
+
+<div align="center">
+
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prodbybuddha&theme=2077" alt="Profile Details" />
+
+<!-- Stats & Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prodbybuddha&theme=2077" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prodbybuddha&theme=2077" alt="Languages" />
+
+</div>
