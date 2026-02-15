@@ -1,4 +1,4 @@
-# 🚀 ProdByBuddha  
+# Billy Coleman III
 ### Agentic Infrastructure Architect | Rust ML Systems | Economic & Compute Governance
 
 I build production-grade systems: high-performance inference, distributed orchestration, secure execution, and economic engines that make compute sustainable.
