@@ -1,103 +1,60 @@
-<div align="center">
+# 🚀 ProdByBuddha  
+### Agentic Infrastructure Architect | Rust ML Systems | Economic & Compute Governance
 
-# BILLY COLEMAN III
-
-### Sovereign Systems Architect | Rust Specialist | Agency Builder
-
-<!-- Typing SVG: The "Moat" Narrative -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+Sovereign+Organisms;Forging+Digital+Independence;Rust+%3E+Hype;The+Agency+Architect" alt="Typing SVG" /></a>
+I build production-grade systems: high-performance inference, distributed orchestration, secure execution, and economic engines that make compute sustainable.
 
 ---
 
-<!-- Badges: High Contrast, "For-the-Badge" -->
-<a href="https://github.com/prodbybuddha">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</a>
-<a href="https://github.com/prodbybuddha/agency">
-  <img src="https://img.shields.io/badge/Agency-Architect-8A2BE2?style=for-the-badge&logo=prometheus&logoColor=white" />
-</a>
-<a href="https://github.com/sponsors/prodbybuddha">
-  <img src="https://img.shields.io/badge/Sponsor-Protocol-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
-</a>
+## 🧠 What I’m actually good at (holistic)
 
-</div>
+### Systems & Infra
+- High-performance / low-latency design
+- Containerization (Docker/Podman) + orchestration (Kubernetes)
+- Observability-first architectures
+- DevSecOps constraints & sandboxing
 
-<br />
+### AI & Reasoning Systems
+- Inference pipelines (ONNX/ORT, vLLM, Candle)
+- Agent orchestration & tool ecosystems
+- Retrieval + memory systems (pragmatic, not academic)
 
-## `> whoami`
+### Economic Compute & Decision Engines
+- CAC/LTGP + capital-efficiency modeling
+- Compute tier governance + subsidy logic
+- “Automation dividend” modeling and deployment economics
 
-```rust
-struct BillyColemanIII {
-    role: "Sovereign Systems Architect",
-    specialization: "High-Performance Autonomous Systems",
-    philosophy: "Discipline > Convenience",
-    location: "The Bleeding Edge",
-}
+---
 
-impl Developer for BillyColemanIII {
-    fn focus(&self) -> Focus {
-        // I don't just glue APIs together.
-        // I engineer the nervous systems that allow AI to exist autonomously.
-        Focus::Rust | Focus::InferenceOps | Focus::FirstPrinciples
-    }
-}
-```
+## 🐬 Signature Systems (best-of)
 
-## `> ./agency --status`
+- **Agency** — Rust microservices constellation for autonomous reasoning + memory + voice, designed for concurrency + isolation.
+- **Compute Commons** — framework for decentralized GPU coordination + economic governance.
+- **OpenAPI MCP Server** — universal OpenAPI → MCP tool generation for high-speed agent toolchains.
+- **infra-as-an-organism** — infrastructure treated as a self-aware system: feedback loops, governance, adaptation.
+- **ltgp_cac_calculator** — Rust CLI economics engine for go-to-market & capital allocation.
+- **Personal AI Infrastructure** — a pragmatic, deployable local inference stack that balances performance, cost, and control.
 
-### [ACCESS THE AGENCY](https://github.com/prodbybuddha/agency)
+(Other builds like **Rokour Academy** are part of the portfolio, but this list highlights the systems that best represent architectural gravity.)
 
-**The Flagship.** A SOTA semi-autonomous organism built entirely in Rust.
-While others build chat wrappers, I'm building a living system.
+---
 
-> *"Agency is not a script. It is a distributed microservices constellation handling ReAct reasoning, dedicated memory subsystems, and local neural speech synthesis—all protected by military-grade process isolation."*
+## 🛠 Tech Stack Summary
 
-| Component | Technology | The Moat (Why it's hard) |
-| :--- | :--- | :--- |
-| **The Brain** | `Rust` + `Tokio` | Async runtime handling massive concurrency without GC pauses. |
-| **The Voice** | `Candle` + `ONNX` | Local, low-latency neural TTS running on Metal/Apple Silicon. |
-| **The Memory** | `Chroma` + `FastEmbed` | Semantic retrieval integrated at the binary level. |
-| **The Security** | `Podman` + `Seatbelt` | Rootless, sandboxed execution environment. |
+**Languages:** Rust, TypeScript, Python, C++  
+**AI/ML:** ONNX, ONNX Runtime, Candle, vLLM, retrieval pipelines  
+**Infra:** Docker, Podman, Kubernetes, edge/VPS clusters, GitHub Actions  
+**Tooling:** CLI-first design, OpenAPI automation, agent orchestration
 
-## `> cargo tree --depth=1`
+---
 
-**The "Low Supply" Stack.**
-Tools chosen for robustness, safety, and raw performance.
+## 🎯 Operating Principles
 
-<div align="center">
+- System-level leverage over feature velocity
+- Performance as a first-class constraint
+- Economic resilience as an architectural requirement
+- Open ecosystems over closed silos
 
-| **Systems Programming** | **AI Engineering** | **Infrastructure** |
-| :---: | :---: | :---: |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Candle](https://img.shields.io/badge/Candle-F7F7F7?style=for-the-badge&logo=huggingface&logoColor=black) | ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) |
-| ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white) | ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black) | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GHA-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+---
 
-</div>
-
-## `> cat philosophy.md`
-
-> "Code is the DNA. The runtime is the organism."
-
-I build software that treats infrastructure like biological tissue. My methodology, **[Infra-as-an-Organism](https://github.com/ProdByBuddha/infra-as-an-organism)**, rejects the fragility of modern "glue code" in favor of compiled, type-safe, and self-regulating systems.
-
-I like to operate where the supply of developers is low, but the leverage is infinite: **Rust**.
-
-## `> git log --oneline`
-
-<div align="center">
-
-<!-- Profile Details Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prodbybuddha&theme=2077" alt="Profile Details" />
-
-<!-- Stats & Languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prodbybuddha&theme=2077" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prodbybuddha&theme=2077" alt="Languages" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Authorized Personnel Only.</sub><br>
-  <a href="mailto:thebuddhaverse@icloud.com">Initiate Handshake</a>
-</div>
+📍 Los Angeles, CA  
+Building systems that scale technically — and economically.
