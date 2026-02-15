@@ -70,3 +70,7 @@ Building systems that scale technically — and economically.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prodbybuddha&theme=2077" alt="Languages" />
 
 </div>
+
+---
+## Support
+[GitHub Sponsors](https://github.com/sponsors/prodbybuddha)
