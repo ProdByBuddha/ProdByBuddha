@@ -1,61 +1,46 @@
+
 # Billy Coleman III
-### Agentic Infrastructure Architect | Rust ML Systems | Economic & Compute Governance
 
-I build production-grade systems: high-performance inference, distributed orchestration, secure execution, and economic engines that make compute sustainable.
+### Autonomous Systems Architect
 
----
+I build systems that turn intelligence into execution.
 
-## 🧠 What I’m actually good at (holistic)
+My work centers on autonomous software infrastructure: systems that can reason, use tools, coordinate work, verify outcomes, recover from failure, and remain legible to the people responsible for them.
 
-### Systems & Infra
-- High-performance / low-latency design
-- Containerization (Docker/Podman/Orbstack) + orchestration (Kubernetes)
-- Observability-first architectures
-- DevSecOps constraints & sandboxing
+## Core Maxims
 
-### AI & Reasoning Systems
-- Inference pipelines (ONNX/ORT, vLLM, Candle)
-- Agent orchestration & tool ecosystems
-- Retrieval + memory systems (pragmatic, not academic)
+- **Execution matters more than output.** A system is only useful when it can move from idea to action safely.
+- **Evidence beats assertion.** Work should leave artifacts, verification, and a traceable account of what happened.
+- **Autonomy needs boundaries.** The stronger the automation, the more important the guardrails, permissions, and recovery paths.
+- **Infrastructure is a living system.** Healthy systems sense, adapt, report, and improve instead of silently drifting.
+- **Compute has economics.** Latency, cost, reliability, and governance are architectural constraints, not afterthoughts.
+- **Human context stays central.** Automation should increase human leverage without hiding responsibility.
 
-### Economic Compute & Decision Engines
-- CAC/LTGP + capital-efficiency modeling
-- Compute tier governance + subsidy logic
-- “Automation dividend” modeling and deployment economics
+## Areas of Work
 
----
+- Autonomous execution systems
+- AI infrastructure and agentic workflows
+- Cloud-native control planes
+- Distributed systems and orchestration
+- Observability, verification, and recovery loops
+- Product operations infrastructure
+- Compute governance and cost-aware system design
+- Developer tools that make complex systems easier to operate
 
-## 🐬 Signature Systems (best-of)
+## What I’m Usually Building Toward
 
-- **Agency** — Rust microservices constellation for autonomous reasoning + memory + voice, designed for concurrency + isolation.
-- **Compute Commons** — framework for decentralized GPU coordination + economic governance.
-- **OpenAPI MCP Server** — universal OpenAPI → MCP tool generation for high-speed agent toolchains.
-- **infra-as-an-organism** — infrastructure treated as a self-aware system: feedback loops, governance, adaptation.
-- **ltgp_cac_calculator** — Rust CLI economics engine for go-to-market & capital allocation.
-- **Personal AI Infrastructure** — a pragmatic, deployable local inference stack that balances performance, cost, and control.
+Systems that are not just intelligent, but operationally trustworthy.
 
----
+That means software that can:
+- understand context,
+- choose or request the right action,
+- execute through real tools,
+- verify its own work,
+- surface uncertainty,
+- recover from failure,
+- and produce evidence people can trust.
 
-## 🛠 Tech Stack Summary
-
-**Languages:** Rust, TypeScript, Python, C++  
-**AI/ML:** ONNX, ONNX Runtime, Candle, vLLM, retrieval pipelines  
-**Infra:** Docker, Podman, Kubernetes, edge/VPS clusters, GitHub Actions  
-**Tooling:** CLI-first design, OpenAPI automation, agent orchestration
-
----
-
-## 🎯 Operating Principles
-
-- System-level leverage over feature velocity
-- Performance as a first-class constraint
-- Economic resilience as an architectural requirement
-- Open ecosystems over closed silos
-
----
-
-📍 Los Angeles, CA  
-Building systems that scale technically — and economically.
+I care about durable leverage: infrastructure that makes people more capable, organizations more coherent, and complex work easier to reason about.
 
 ---
 ## `> git log --oneline`
