@@ -27,6 +27,10 @@ My work centers on autonomous software infrastructure: systems that can reason, 
 - Compute governance and cost-aware system design
 - Developer tools that make complex systems easier to operate
 
+## Case Studies
+
+[**Conform Connect**: From Domain Expertise to Shipping Software](https://gist.github.com/ProdByBuddha/d37be42e33ef120f2864a55aafe557b5)
+
 ## What I’m Usually Building Toward
 
 Systems that are not just intelligent, but operationally trustworthy.
