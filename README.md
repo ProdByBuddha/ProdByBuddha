@@ -66,10 +66,10 @@ I care about durable leverage: infrastructure that makes people more capable, or
 
 ## Gists
 
-[AI Execution Blueprint](https://gist.github.com/ProdByBuddha/2d0bd71fd04285b4a408c73b0a958770)
-[Conform Connect Case Study](https://gist.github.com/ProdByBuddha/d37be42e33ef120f2864a55aafe557b5)
-[We Have Metrics for Labor. We Need Metrics for Leverage](https://gist.github.com/ProdByBuddha/feb7d4e1831cab9ba3310262bfe5bc93)
-[Automation Doesn't Defeat Shareholder Primacy. It Exposes Its Assumptions](https://gist.github.com/ProdByBuddha/63875d149be4a2fba96258eceac75a62)
-[I Am vs Distinction](https://gist.github.com/ProdByBuddha/bdff7531de11978ddeda051ab87b37a7)
-[Recursive Compression](https://gist.github.com/ProdByBuddha/6ea27a047fc4fd4ff5a3ae3e7d705066)
+[AI Execution Blueprint](https://gist.github.com/ProdByBuddha/2d0bd71fd04285b4a408c73b0a958770)</br>
+[Conform Connect Case Study](https://gist.github.com/ProdByBuddha/d37be42e33ef120f2864a55aafe557b5)</br>
+[We Have Metrics for Labor. We Need Metrics for Leverage](https://gist.github.com/ProdByBuddha/feb7d4e1831cab9ba3310262bfe5bc93)</br>
+[Automation Doesn't Defeat Shareholder Primacy. It Exposes Its Assumptions](https://gist.github.com/ProdByBuddha/63875d149be4a2fba96258eceac75a62)</br>
+[I Am vs Distinction](https://gist.github.com/ProdByBuddha/bdff7531de11978ddeda051ab87b37a7)</br>
+[Recursive Compression](https://gist.github.com/ProdByBuddha/6ea27a047fc4fd4ff5a3ae3e7d705066)</br>
 [Institutional Dependence Is the New Labor Dependence](https://gist.github.com/ProdByBuddha/e1b5895026507711c73998a4af7f94ab)
